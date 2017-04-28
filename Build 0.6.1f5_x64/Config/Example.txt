@@ -1,0 +1,5 @@
+enabled
+C:/Path/to/
+
+enabled
+C:/Path/to/file.txt
